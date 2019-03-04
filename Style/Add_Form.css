@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* CSS Document */
+
+#form{
+	border:0px #00F double;
+	border-radius:10px;
+	margin-top:35px;
+	padding:45px;
+	width:400px;
+	height:460px;
+	background-color:#CCC;	
+	margin-left:445px;
+}
+input[type=submit]{
+	 width:150px;
+	 
+}
+table{
+	margin:auto;
+	padding:20px;
+	background-color:#FFF;	
+	border-radius:5px;	
+	box-shadow:3px 3px 9px #999;
+	width:400px;
+}
+th{
+	text-align:left;	
+}
+select{
+	width:80px;
+	height:32px;
+}
+input{
+	width:77px;
+height:29px;	
+}
+
+.button {
+height: 35px;
+width: 400px;
+border-radius:5px;
+}
+
+.img{
+	position:absolute;
+	width:350px;
+	height:370px;
+	margin-left:130px;
+	margin-top:135px;
+	z-index:15;
+	float:left;
+}
+.ii{
+	float:right;
+	position:absolute;
+	width:130px;
+	height:100px;
+	margin-left:815px;
+	margin-top:93px;
+	z-index:20;
+}
